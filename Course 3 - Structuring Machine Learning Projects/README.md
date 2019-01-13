@@ -1,0 +1,1 @@
+There are no programming assignments for Course 3 - Structuring Machine Learning Projects
